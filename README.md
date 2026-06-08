@@ -42,7 +42,7 @@ You are choosing to modify your device and assume full responsibility for anythi
 
 4. Install [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) and verify KernelSU support is functioning correctly
 
-5. Install the Avalon Firmware module as stated below
+5. Setup Kali NetHunter and install Avalon Firmware module as stated below
 
 ## Kali NetHunter
 
