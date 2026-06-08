@@ -23,7 +23,9 @@ You are choosing to modify your device and assume full responsibility for anythi
 ## Requirements
 
 * Xiaomi Poco F4 GT (ingres)
-* [LineageOS 23.2](https://xdaforums.com/t/development-lineageos-23-2-unofficial-for-ingres.4763102/]
+
+* [LineageOS 23.2](https://xdaforums.com/t/development-lineageos-23-2-unofficial-for-ingres.4763102/)
+
 * Unlocked bootloader
 
 ## Installation
