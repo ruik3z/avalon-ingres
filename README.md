@@ -23,16 +23,21 @@ You are choosing to modify your device and assume full responsibility for anythi
 ## Requirements
 
 * Xiaomi Poco F4 GT (ingres)
-* LineageOS 23.2
+* [LineageOS 23.2](https://xdaforums.com/t/development-lineageos-23-2-unofficial-for-ingres.4763102/]
 * Unlocked bootloader
 
 ## Installation
 
 1. Download the latest [Avalon Kernel release](https://github.com/ruik3z/avalon-ingres/releases)
+
 2. Flash the provided boot image via fastboot
+
 `fastboot flash boot boot.img`
+
 3. Reboot
+
 `fastboot reboot`
+
 4. Install [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) and verify KernelSU support is functioning correctly
 
 ## Kali NetHunter
@@ -45,7 +50,7 @@ To use supported external wireless adapters and SDR devices, install the [Avalon
 
 ## Source Code
 
-[Kernel Source Repo](https://github.com/ruik3z/kernel-ingres)
+[Kernel Source](https://github.com/ruik3z/kernel-ingres)
 
 ## Credits
 
