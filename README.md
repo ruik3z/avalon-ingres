@@ -1,24 +1,4 @@
-# Avalon Kernel
-
-Custom NetHunter-focused kernel for the Xiaomi Poco F4 GT (ingres).
-
-Built for LineageOS 23.2 with KernelSU-Next integration, external USB WiFi adapter support, SDR support and Kali NetHunter compatibility.
-
-## Disclaimer
-
-I am not responsible for any damage caused to your device.
-
-You are choosing to modify your device and assume full responsibility for anything that happens as a result.
-
-## Features
-
-* KernelSU-Next integrated
-* Kali NetHunter support
-* External USB WiFi adapter support
-* Monitor mode capable chipset support
-* SDR support
-* Additional firmware support for NetHunter environments
-* Built for LineageOS 23.2 (Android 16)
+# Note: Firmware Module below is required for important features such as monitor mode!
 
 ## Requirements
 
@@ -51,6 +31,30 @@ For complete NetHunter installation instructions, see [NetHunter Setup Guide](ht
 ## Firmware Module
 
 To use supported external wireless adapters and SDR devices, install the [Avalon Firmware module](https://github.com/ruik3z/avalon-firmware)
+
+# Miscellaneous Info, Feautures, etc.
+
+# Avalon Kernel
+
+Custom NetHunter-focused kernel for the Xiaomi Poco F4 GT (ingres).
+
+Built for LineageOS 23.2 with KernelSU-Next integration, external USB WiFi adapter support, SDR support and Kali NetHunter compatibility.
+
+## Disclaimer
+
+I am not responsible for any damage caused to your device.
+
+You are choosing to modify your device and assume full responsibility for anything that happens as a result.
+
+## Features
+
+* KernelSU-Next integrated
+* Kali NetHunter support
+* External USB WiFi adapter support
+* Monitor mode capable chipset support
+* SDR support
+* Additional firmware support for NetHunter environments
+* Built for LineageOS 23.2 (Android 16)
 
 ## Source Code
 
